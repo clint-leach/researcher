@@ -23,6 +23,8 @@ I am a PhD candidate in ecology working in [Colleen Webb's](http://rydberg.biolo
 
 ### Publications
 
+{% bibliography %}
+
 ### CV
 
 #### Education

@@ -7,3 +7,10 @@ sass:
     sass_dir: _sass
 
 exclude: ["README.md"]
+
+gems: ['jekyll/scholar']
+
+scholar:
+  source: ./_bibliography
+  bibliography: 0000-0003-4280-0375.bib
+  use_raw_bibtex_entry: true
