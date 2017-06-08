@@ -2,44 +2,45 @@
 layout: default
 ---
 
-## About Me
+Graduate student  
+Graduate Degree Program in Ecology  
+Department of Statistics
 
-<img class="profile-picture" src="sherlock.jpg">
+Colorado State University  
+Fort Collins, CO  
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+[email](mailto:clint.leach@gmail.com) // [github](http://github.com/clint-leach) // [twitter](http://twitter.com/clintBleach) // [ORCID](http://orcid.org/0000-0003-4280-0375)
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+### About me
 
-## Research Interest
+I am a PhD candidate in ecology working in [Colleen Webb's](http://rydberg.biology.colostate.edu/ctwebb/) lab at Colorado State University. Broadly, I am interested in ecological networks and their application in food webs and disease ecology.  More specifically, I am interested in coupling mechanistic and statistical models to make inference about the structure of the network processes driving community and/or disease dynamics.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+### Size-structured food webs
 
-## Publications
+### Modeling the spread of Dengue fever
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+### Minimizing coffee wait time
 
-## Typography
+### Publications
 
-This is a [link](http://google.com). Something *italics* and something **bold**.
+### CV
 
-Here is a table
+#### Education
 
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
+Colorado State University
+  : PhD Candidate, Graduate Degree Program in Ecology, expected 2016.
+  : M.S., Department of Statistics, expected 2016.
 
-Here is a horizontal rule
+Harvey Mudd College
+  : B.S. Mathematical Biology, 2010.
 
----
+#### Professional experience
 
-Here is a blockquote
 
-> To a great mind, nothing is little
+#### Grants and Awards
 
-## References
 
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
+#### Workshops and Training
+
+
+#### Presentations
