@@ -13,13 +13,11 @@ Fort Collins, CO
 
 ### About me
 
-I am a PhD candidate in ecology working in [Colleen Webb's](http://rydberg.biology.colostate.edu/ctwebb/) lab at Colorado State University. Broadly, I am interested in ecological networks and their application in food webs and disease ecology.  More specifically, I am interested in coupling mechanistic and statistical models to make inference about the structure of the network processes driving community and/or disease dynamics.
+I am a PhD candidate in ecology working in [Colleen Webb's](http://rydberg.biology.colostate.edu/ctwebb/) lab at Colorado State University. I am interested in coupling mechanistic and statistical models to make inference about the structure of the network processes driving community and/or disease dynamics.
 
 ### Size-structured food webs
 
 ### Modeling the spread of Dengue fever
-
-### Minimizing coffee wait time
 
 ### Publications
 
