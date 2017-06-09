@@ -33,14 +33,3 @@ Colorado State University
 
 Harvey Mudd College
   : B.S. Mathematical Biology, 2010.
-
-#### Professional experience
-
-
-#### Grants and Awards
-
-
-#### Workshops and Training
-
-
-#### Presentations
